@@ -1,0 +1,8 @@
+mert 368.0
+asuman   200.0
+zeynep 170.0
+tolga   55.0
+sezen  49.0
+ayse  40.0
+mehmet 33.0
+ali   20.0
